@@ -1,0 +1,7 @@
+#change the paths for train, val, test if you are not using colab
+train: /content/drive/MyDrive/YOLOv8/data_for_training_YOLOv8_models/construction_site_objects/data/train/images 
+val: /content/drive/MyDrive/YOLOv8/data_for_training_YOLOv8_models/construction_site_objects/data/valid/images
+test: /content/drive/MyDrive/YOLOv8/data_for_training_YOLOv8_models/construction_site_objects/data/test/images
+
+nc: 5
+names: ['Helmet', 'Goggles', 'Jacket', 'Gloves', 'Footwear']

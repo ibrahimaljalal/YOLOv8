@@ -1,0 +1,8 @@
+in general if you want to open a google colab notebook file from a github repository, the notebook file (with .ipynb extension) should be inside a folder named blob.
+
+the URL should look like this:
+https://colab.research.google.com/github/<github account name>/<repository name>/<possibly additional directories>/blob/<your file name>.ipynb
+
+
+
+
